@@ -61,7 +61,7 @@ We have an array of drivers with various information. We need to write methods u
 `filter()` method so that PickMeUp Taxi service employees can easily query the data. Run the
 tests to see what conditions need to be met by each function _before_ you start writing
 JavaScript code.
-
+ 
 You'll be writing three functions:
 
 ### Write a Function To Case-insensitively Match `string`s
